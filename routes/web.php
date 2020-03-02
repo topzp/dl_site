@@ -15,3 +15,4 @@
 //     return view('welcome');
 // });
 Route::get('/', 'PageViewController@index');
+Route::get('/website', 'PageViewController@website');

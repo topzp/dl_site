@@ -6,6 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>达乐科技</title>
   <link rel="shortcut icon" href="/images/logoicon.png" type="image/x-icon">
+  <link href="https://cdn.bootcss.com/twitter-bootstrap/3.4.0/css/bootstrap.min.css" rel="stylesheet">
   <link type=text/css rel="stylesheet" href="/css/base/font.css">
   <link type=text/css rel="stylesheet" href="/css/base/base.css">
   <link type=text/css rel="stylesheet" href="/css/base/case.css">
@@ -16,14 +17,14 @@
             <a href="/" class="nav-logo_wrap"></a>
             <div class="nav-func">
             <a id="navRoot" href="/" class="nav-func_item">首页</a>
-            <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">微山</a>
+            <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">微商城解决方案</a>
             <div id="marketing" class="nav-func_item nav-more">
                 互联网营销
                 <i class="arrow-down iconfont iconicon_nav_downArrow"></i>
                 <div class="more-list">
-                <a href="/pages/website" class="more-item">网站建设</a>
-                <a href="/pages/weChat" class="more-item">微信公众号运营</a>
-                <a href="/pages/onLine" class="more-item">线上营销推广</a>
+                <a href="/website" class="more-item">网站建设</a>
+                <a href="/weChat" class="more-item">微信公众号运营</a>
+                <a href="/onLine" class="more-item">线上营销推广</a>
                 <a class="more-item">其他服务</a>
                 </div>
             </div>

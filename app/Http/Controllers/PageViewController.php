@@ -17,4 +17,14 @@ class PageViewController extends Controller
         }
         return view($returnView);
     }
+
+    public function website()
+    {
+        if (WebService::isMobile()) {
+            $returnView = "website.web_mobile";
+        } else {
+            $returnView = "website.web_pc";
+        }
+        return view($returnView);
+    }
 }
