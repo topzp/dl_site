@@ -27,4 +27,15 @@ class PageViewController extends Controller
         }
         return view($returnView);
     }
+
+    public function wechat()
+    {
+        if (WebService::isMobile()) {
+            $returnView = "wechat.wechat_mobile";
+        } else {
+            $returnView = "wechat.wechat_pc";
+        }
+        return view($returnView);
+    }
+    
 }
