@@ -20,4 +20,18 @@ Route::get('/wechat', 'PageViewController@wechat');
 Route::get('/customize', 'PageViewController@customize');
 Route::get('/aboutUs', 'PageViewController@aboutUs');
 Route::get('/news', 'PageViewController@news');
+Route::get('/cases', 'PageViewController@showCases');
+Route::get('/create-case', 'CaseController@create');
+Route::post('/category', 'CaseController@categoryCreate');
+Route::post('/module', 'CaseController@miniModuleCreate');
+Route::post('/case/create', 'CaseController@useCaseCreate');
+Route::get('/admin', 'PageViewController@admin');
+Route::post('/news/create', 'NewsController@newsCreate');
+
+
+
+
 Route::get('/newsCreate', 'PageViewController@newsCreate');
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

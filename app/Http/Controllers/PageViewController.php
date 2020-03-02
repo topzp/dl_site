@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\News;
+use App\UseCase;
+use App\MiniModule;
+use App\CaseCategory;
 use App\Service\WebService;
 use Illuminate\Http\Request;
 
@@ -78,6 +81,33 @@ class PageViewController extends Controller
         return view($returnView, compact('news', 'relatedNews'));
     }
 
+    public function showCases()
+    {
+        $categoryId = request('categoryId');
+        if ($categoryId == 0) {
+            $useCases = UseCase::all();
+        } else {
+            $useCases = UseCase::whereHas('caseCategories', function($q) use($categoryId) {
+                $q->where('case_category_id', $categoryId);
+            })->get();
+        }
+        if (WebService::isMobile()) {
+            $returnView = "useCase.case_mobile";
+        } else {
+            $returnView = "useCase.case_pc";
+        }
+        return view($returnView, [
+            'categories' => CaseCategory::all(),
+            'modules' => MiniModule::all(),
+            'useCases' => $useCases
+        ]);
+    }
+
+    public function admin()
+    {
+        $this->middleware('auth');
+        return view("admin.admin");
+    }
 
     public function newsCreate()
     {

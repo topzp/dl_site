@@ -29,7 +29,7 @@
                 <a class="more-item">其他服务</a>
                 </div>
             </div>
-            <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">案例</a>
+            <a id="navRoot" href="/cases?categoryId=0" class="nav-func_item">案例</a>
             <a id="customize" href="/customize" class="nav-func_item" data-count="pc-顶部导航_首页">定制开发</a>
             <!-- <a id="navRoot" href="/" class="nav-func_item" data-count="pc-顶部导航_首页">案例</a> -->
             <div id="us" class=" nav-func_item nav-more">

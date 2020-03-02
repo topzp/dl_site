@@ -1,0 +1,203 @@
+.wrap {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 500px;
+}
+.case_container {
+    padding-bottom: 50px;
+}
+.tabs span {
+    padding: 5px 15px;
+    font-weight: bold;
+    padding-left: 0;
+    
+}
+.fl {
+    float: left;
+}
+span {
+    border: 0;
+    font-family: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+.tabs a.active {
+    background: #85B8F7;
+    color: #fff;
+    border-color: #85B8F7;
+}
+.tabs a {
+    float: left;
+    border: 1px solid #eee;
+    padding: 4px 15px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+    background-color: #fff;
+}
+a {
+    transition: all .3s ease;
+}
+.tabs {
+    padding-top: 30px;
+}
+.tabs a:hover {
+    border-color: #85B8F7;
+    color: #85B8F7;
+}
+.selected:hover {
+    color: #ffffff!important;
+}
+.moran-al .case_list {
+    height: auto;
+    overflow: hidden;
+    clear: both;
+}
+.w1152 {
+    /* width: 1152px; */
+    margin: 0 auto;
+}
+.moran-al .case_list .list ul {
+    height: auto;
+    overflow: hidden;
+    width: 1170px;
+}
+.moran-al ul {
+    margin-top: 40px;
+}
+ul, li {
+    list-style-type: none;
+}
+.moran-al li:not(:nth-child(4n)) {
+    margin-right: 2%;
+}
+.moran-al li {
+    background: #fff;
+    width: 23.5%;
+    float: left;
+    position: relative;
+    margin-bottom: 25px;;
+    transition: all ease .3s;
+}
+.moran-al li .con {
+    padding: 36px 30px;
+    text-align: center;
+}
+.moran-al .caseLogo {
+    width: 68px;
+    height: 68px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+.moran-al h3 {
+    margin-top: 20px;
+    position: relative;
+    padding-bottom: 10px;
+}
+.moran-al h3::after {
+    position: absolute;
+    height: 3px;
+    content: "";
+    display: block;
+    left: 45%;
+    right: 45%;
+    bottom: 0;
+    background: currentColor;
+    opacity: .2;
+}
+.moran-al .bot {
+    font-size: 12px;
+    color: #999;
+    margin-top: 10px;
+}
+.moran-al .mode {
+    margin-top: 16px;
+    text-align: left;
+    height: 63px;
+    overflow: hidden;
+    font-size: 15px;
+}
+.moran-al .poupopCode {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    background: rgba(255, 255, 255, 0.95);
+    display: none;
+    opacity: 0;
+    animation: poupopCode .3s ease forwards;
+}
+.moran-al .caseCode {
+    width: 148px;
+    height: 148px;
+    object-fit: cover;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -94px 0 0 -74px;
+    opacity: 0;
+    animation: caseCode .6s .2s ease forwards;
+    z-index: 1;
+}
+.moran-al .poupopCode span {
+    display: block;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    margin-top: 60px;
+    color: #999;
+    letter-spacing: 2px;
+    width: 100%;
+    opacity: 0;
+    letter-spacing: 10px;
+    animation: poupopCodeSpan .5s .5s ease forwards;
+}
+.moran-al li:hover {
+    box-shadow: 1px 6px 30px rgba(0,0,0,0.1);
+}
+.moran-al li:hover .poupopCode {
+    display: block;
+}
+
+.SmallBtnType2 {
+    padding: 0 22px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 22px;
+    border: 1px solid #446ACC;
+    display: inline-block;
+    color: #446ACC;
+    margin-right: 20px;
+}
+.SmallBtnType2:hover {
+    background: #446ACC;
+    color: #fff;
+}
+
+
+
+@keyframes poupopCode{
+    0%{ opacity: 0;}
+    100%{ opacity: 1;}
+}
+@keyframes caseCode{
+    0%{transform: perspective(160px) rotateX(180deg) rotateY(0deg); opacity: 0;}
+    100%{transform: perspective(160px) rotateX(0deg) rotateY(0deg); opacity: 1;}
+}
+@keyframes poupopCodeSpan{
+    0%{ letter-spacing:10px; opacity:0; }
+    100%{ letter-spacing:2px; opacity:1; }
+}
