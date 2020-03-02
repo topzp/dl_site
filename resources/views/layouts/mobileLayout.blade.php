@@ -42,7 +42,7 @@
             </a>
         </div>
         <div class="mTopLogOrReg">
-            {{-- <i id="sliderClick" class='sliderBtn iconfont icondaohang'></i> --}}
+            <i id="sliderClick" class='sliderBtn iconfont icondaohang'></i>
         </div>
     </div>
     <div class="nav-space"></div>

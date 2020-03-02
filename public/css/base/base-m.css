@@ -202,7 +202,7 @@ a {
 .test::before{  
     content: "";
     position: absolute;
-    background-image: url(../images/test1.jpeg);
+    background-image: url(/images/test1.jpeg);
     z-index: -1;
     height: 7.8rem;
     width: 100%;
