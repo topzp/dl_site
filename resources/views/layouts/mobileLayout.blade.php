@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>骇驰科技</title>
+  <title>达乐科技</title>
   <link href="https://cdn.bootcss.com/twitter-bootstrap/3.4.0/css/bootstrap.min.css" rel="stylesheet">
-    <link type=text/css rel="stylesheet" href="/css/case/font.css">
-    <link type=text/css rel="stylesheet" href="/css/case/case-m.css">
-    <link type=text/css rel="stylesheet" href="/css/case/base-m.css">
+    <link type=text/css rel="stylesheet" href="/css/base/font.css">
+    <link type=text/css rel="stylesheet" href="/css/base/case-m.css">
+    <link type=text/css rel="stylesheet" href="/css/base/base-m.css">
     <script>
         //移动端rem适配
         var htmlDom = document.documentElement;
@@ -62,82 +62,11 @@
                             首页
                         </a>
                     </li>
-                    <li class="sideSecondBox">
-                        <div class="sideSecondTitle">
-                            小程序行业解决方案&nbsp;
-                            <i class="narraw active iconfont  icontriangle-down"></i></div>
-                        <dl class="sideSecondList mini-list">
-                            <dd>
-                                <a href="/mobile/pages/mini?img=resturant">
-                                    智慧餐厅（多店版）
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=resbook">
-                                    酒店预定
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=multires">
-                                    多门店系统
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=resturant-s">
-                                    智慧餐厅（单店版）
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=singleres">
-                                    单门店系统
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=local">
-                                    微同城
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=book">
-                                    微预约
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=shop">
-                                    微商城
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=qiye">
-                                    企业展示
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=content">
-                                    内容管理+
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=newdanye">
-                                    微单页
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=qiye">
-                                    企业展示
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=mingpian">
-                                    微名片
-                                </a>
-                            </dd>
-                            <dd>
-                                <a href="/mobile/pages/mini?img=huodong">
-                                    活动报名
-                                </a>
-                            </dd>
-                        </dl>
+                    <li>
+                        <a data-count="移动端-顶部导航_渠道合作"
+                           href="/mobile/pages/customize">
+                            微商城解决方案
+                        </a>
                     </li>
                     <li class="sideSecondBox">
                         <div class="sideSecondTitle">

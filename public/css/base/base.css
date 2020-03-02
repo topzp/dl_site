@@ -80,7 +80,7 @@ li, ul {
 }
 
 .whiteNav .nav-func_item:hover .arrow-down:before, .whiteNav .nav-item_select {
-    color: #446ACC;
+    color: #F7513F;
 }
 
 .nav .nav-item_select {
@@ -99,11 +99,11 @@ li, ul {
 .whiteNav .nav-func_item:hover {
     -webkit-transition: all .3s;
     transition: all .3s;
-    color: #446ACC;
+    color: #F7513F;
 }
 
 .whiteNav .nav-item_select:before {
-    background: #446ACC;
+    background: #F7513F;
 }
 .nav .nav-item_select:before {
     position: absolute;
@@ -118,7 +118,7 @@ li, ul {
 
 .nav .nav-item_select:after {
     position: absolute;
-    background: #446ACC;
+    background: #F7513F;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
     -webkit-transform-origin: center;
@@ -155,7 +155,7 @@ li, ul {
 .swiper-banner1 {
     min-width: 1200px;
     position: relative;
-    background-color: #446ACC;
+    background-color: #F7513F;
     height: 2000px;
 }
 
@@ -218,7 +218,7 @@ li, ul {
     height: 56px;
     line-height: 56px;
     border-radius: 28px;
-    background: #446ACC;
+    background: #F7513F;
     color: #fff;
     font-size: 16px;
     text-align: center;
@@ -232,7 +232,7 @@ li, ul {
 .test::before{  
     content: "";
     position: absolute;
-    background-image: url(./images/test1.jpeg); 
+    background-image: url(/images/test1.jpeg); 
     width: 1905px;
     z-index: -1;
     width: 100%;
@@ -291,7 +291,7 @@ li, ul {
     padding: 0 44px;
     height: 44px;
     line-height: 44px;
-    background: #446ACC;
+    background: #F7513F;
 }
 .MediumBtnType1, .SmallBtnType1 {
     color: #fff;
@@ -359,7 +359,7 @@ li, ul {
 }
 .data-content {
     height: 650px;
-    background: #446ACC;
+    background: #F7513F;
     background-size: 100%;
     text-align: center;
     margin: 0;
@@ -734,7 +734,7 @@ li, ul {
     margin-bottom: 26px;
 }
 .more-item:hover, .List a:hover {
-  color: #446ACC;
+  color: #F7513F;
 }
 .xe-banner3 a:hover, .free a:hover {
     color: #fff;

@@ -4,21 +4,45 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>骇驰科技</title>
+  <title>达乐科技</title>
   <link rel="shortcut icon" href="/images/logoicon.png" type="image/x-icon">
-  <link type=text/css rel="stylesheet" href="/css/case/font.css">
-  <link type=text/css rel="stylesheet" href="/css/case/base.css">
-  <link type=text/css rel="stylesheet" href="/css/case/case.css">
+  <link type=text/css rel="stylesheet" href="/css/base/font.css">
+  <link type=text/css rel="stylesheet" href="/css/base/base.css">
+  <link type=text/css rel="stylesheet" href="/css/base/case.css">
 </head>
 <body>
     <div id="nav" class="nav whiteNav">
         <div class="nav-content">
-            <a href="http://customer.hich-tech.com" class="nav-logo_wrap"></a>
-
+            <a href="/" class="nav-logo_wrap"></a>
+            <div class="nav-func">
+            <a id="navRoot" href="/" class="nav-func_item">首页</a>
+            <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">微山</a>
+            <div id="marketing" class="nav-func_item nav-more">
+                互联网营销
+                <i class="arrow-down iconfont iconicon_nav_downArrow"></i>
+                <div class="more-list">
+                <a href="/pages/website" class="more-item">网站建设</a>
+                <a href="/pages/weChat" class="more-item">微信公众号运营</a>
+                <a href="/pages/onLine" class="more-item">线上营销推广</a>
+                <a class="more-item">其他服务</a>
+                </div>
+            </div>
+            <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">案例</a>
+            <a id="customize" href="/pages/customize" class="nav-func_item" data-count="pc-顶部导航_首页">定制开发</a>
+            <!-- <a id="navRoot" href="/" class="nav-func_item" data-count="pc-顶部导航_首页">案例</a> -->
+            <div id="us" class=" nav-func_item nav-more">
+                关于我们
+                <i class="arrow-down iconfont iconicon_nav_downArrow"></i>
+                <div class="more-list">
+                <a href="/pages/aboutUs" class="more-item">公司简介</a>
+                <a href="/pages/hotNews/news1" class="more-item">热点资讯</a>
+                </div>
+            </div>
+            </div>
             <div class="phone">
-                <a href="http://mini.hich-tech.com" target="_blank" class="login-btn SmallBtnType2">登录/注册</a>
-                <img src="/images/phone.svg" class="phone-icon">
-                <span>400-891-6658</span>
+            <a href="http://mini.hich-tech.com" target="_blank" class="login-btn SmallBtnType22">登录/注册</a>
+            <img src="/images/phone.svg" class="phone-icon">
+            <span>400-891-6658</span>
             </div>
         </div>
     </div>

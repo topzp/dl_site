@@ -3,6 +3,7 @@
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
+    min-height: 500px;
 }
 .container {
     padding-bottom: 50px;
@@ -65,7 +66,7 @@ a {
 .moran-al .case_list .list ul {
     height: auto;
     overflow: hidden;
-    /* width: 1170px; */
+    width: 1170px;
 }
 .moran-al ul {
     margin-top: 40px;
@@ -73,25 +74,20 @@ a {
 ul, li {
     list-style-type: none;
 }
-/* .moran-al li:not(:nth-child(4n)) {
+.moran-al li:not(:nth-child(4n)) {
     margin-right: 2%;
-} */
+}
 .moran-al li {
-    /* background: #fff; */
-    /* width: 90%; */
+    background: #fff;
+    width: 23.5%;
     float: left;
     position: relative;
     margin-bottom: 25px;;
     transition: all ease .3s;
 }
-.moran-al li>div {
-    position: relative;
-    background-color: #ffffff;
-}
 .moran-al li .con {
     padding: 36px 30px;
     text-align: center;
-    height: 223px;
 }
 .moran-al .caseLogo {
     width: 68px;
@@ -114,8 +110,8 @@ img {
     height: 3px;
     content: "";
     display: block;
-    left: 35%;
-    right: 35%;
+    left: 45%;
+    right: 45%;
     bottom: 0;
     background: currentColor;
     opacity: .2;
@@ -169,23 +165,25 @@ img {
     letter-spacing: 10px;
     animation: poupopCodeSpan .5s .5s ease forwards;
 }
-
-/* .moran-al li:hover .poupopCode {
+.moran-al li:hover {
+    box-shadow: 1px 6px 30px rgba(0,0,0,0.1);
+}
+.moran-al li:hover .poupopCode {
     display: block;
-} */
+}
 
 .SmallBtnType2 {
     padding: 0 22px;
     height: 36px;
     line-height: 36px;
     border-radius: 22px;
-    border: 1px solid #446ACC;
+    border: 1px solid #F7513F;
     display: inline-block;
-    color: #446ACC;
+    color: #F7513F;
     margin-right: 20px;
 }
 .SmallBtnType2:hover {
-    background: #446ACC;
+    background: #F7513F;
     color: #fff;
 }
 

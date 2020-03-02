@@ -1,1 +1,5 @@
-12334
+@extends('layouts.mobileLayout')
+
+@section('content')
+
+@endsection
