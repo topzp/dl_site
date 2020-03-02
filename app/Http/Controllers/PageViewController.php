@@ -47,4 +47,14 @@ class PageViewController extends Controller
         }
         return view($returnView);
     }
+
+    public function aboutUs()
+    {
+        if (WebService::isMobile()) {
+            $returnView = "aboutUs.aboutUs_mobile";
+        } else {
+            $returnView = "aboutUs.aboutUs_pc";
+        }
+        return view($returnView);
+    }
 }

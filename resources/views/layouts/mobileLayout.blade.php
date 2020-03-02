@@ -113,7 +113,7 @@
                             <dd>
                                 <a class="aboutUs"
                                    data-count="移动端-顶部导航_关于我们_公司简介"
-                                   href="/mobile/pages/aboutUs">
+                                   href="/aboutUs">
                                     公司简介
                                 </a>
     

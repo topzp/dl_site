@@ -36,7 +36,7 @@
                 关于我们
                 <i class="arrow-down iconfont iconicon_nav_downArrow"></i>
                 <div class="more-list">
-                <a href="/pages/aboutUs" class="more-item">公司简介</a>
+                <a href="/aboutUs" class="more-item">公司简介</a>
                 <a href="/pages/hotNews/news1" class="more-item">热点资讯</a>
                 </div>
             </div>
