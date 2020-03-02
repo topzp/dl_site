@@ -9,6 +9,7 @@
     <link type=text/css rel="stylesheet" href="/css/base/font.css">
     <link type=text/css rel="stylesheet" href="/css/base/case-m.css">
     <link type=text/css rel="stylesheet" href="/css/base/base-m.css">
+    @yield('css-insert')
     <script>
         //移动端rem适配
         var htmlDom = document.documentElement;
@@ -75,13 +76,13 @@
                         <dl class="sideSecondList">
                             <dd>
                                 <a data-count="移动端-顶部导航_更多_API自主开发"
-                                   href="/mobile/pages/website">
+                                   href="/website">
                                     网站建设
                                 </a>
                             </dd>
                             <dd>
                                 <a data-count="移动端-顶部导航_更多_应用市场"
-                                   href="/mobile/pages/weChat">
+                                   href="/weChat">
                                     公众号开发
                                 </a>
                             </dd>
@@ -99,13 +100,8 @@
                         </dl>
                     </li>
                     <li>
-                        <a data-count="移动端-顶部导航_服务价格">
-                            集成平台方案
-                        </a>
-                    </li>
-                    <li>
                         <a data-count="移动端-顶部导航_渠道合作"
-                           href="/mobile/pages/customize">
+                           href="/customize">
                             定制开发
                         </a>
                     </li>
@@ -198,6 +194,7 @@
 
   <script src="/js/jquery.js"></script>
   <script src="/js/case/base-m.js"></script>
+  @yield('js-insert')
 
 </body>
 </html>

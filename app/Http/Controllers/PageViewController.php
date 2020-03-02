@@ -37,5 +37,14 @@ class PageViewController extends Controller
         }
         return view($returnView);
     }
-    
+
+    public function customize()
+    {
+        if (WebService::isMobile()) {
+            $returnView = "customize.customize_mobile";
+        } else {
+            $returnView = "customize.customize_pc";
+        }
+        return view($returnView);
+    }
 }

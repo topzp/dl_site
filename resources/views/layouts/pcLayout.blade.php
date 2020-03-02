@@ -10,6 +10,7 @@
   <link type=text/css rel="stylesheet" href="/css/base/font.css">
   <link type=text/css rel="stylesheet" href="/css/base/base.css">
   <link type=text/css rel="stylesheet" href="/css/base/case.css">
+  @yield('css-insert')
 </head>
 <body>
     <div id="nav" class="nav whiteNav">
@@ -29,7 +30,7 @@
                 </div>
             </div>
             <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">案例</a>
-            <a id="customize" href="/pages/customize" class="nav-func_item" data-count="pc-顶部导航_首页">定制开发</a>
+            <a id="customize" href="/customize" class="nav-func_item" data-count="pc-顶部导航_首页">定制开发</a>
             <!-- <a id="navRoot" href="/" class="nav-func_item" data-count="pc-顶部导航_首页">案例</a> -->
             <div id="us" class=" nav-func_item nav-more">
                 关于我们
@@ -120,6 +121,7 @@
 
     <script src="/js/jquery.js"></script>
     <script src="/js/case/base.js"></script>
+    @yield('js-insert')
 
 </body>
 </html>

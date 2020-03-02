@@ -17,3 +17,4 @@
 Route::get('/', 'PageViewController@index');
 Route::get('/website', 'PageViewController@website');
 Route::get('/wechat', 'PageViewController@wechat');
+Route::get('/customize', 'PageViewController@customize');
