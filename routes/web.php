@@ -20,3 +20,4 @@ Route::get('/wechat', 'PageViewController@wechat');
 Route::get('/customize', 'PageViewController@customize');
 Route::get('/aboutUs', 'PageViewController@aboutUs');
 Route::get('/news', 'PageViewController@news');
+Route::get('/newsCreate', 'PageViewController@newsCreate');
