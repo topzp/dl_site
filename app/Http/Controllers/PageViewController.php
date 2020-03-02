@@ -57,4 +57,14 @@ class PageViewController extends Controller
         }
         return view($returnView);
     }
+
+    public function news()
+    {
+        if (WebService::isMobile()) {
+            $returnView = "hotNews.hotNews_mobile";
+        } else {
+            $returnView = "hotNews.hotNews_pc";
+        }
+        return view($returnView);
+    }
 }

@@ -1,0 +1,21 @@
+
+.read-details {
+    padding: 0 .32rem;
+}
+.read-details .read-details-title {
+    padding: .8rem 0 .16rem;
+    font-weight: 500;
+    color: #353535;
+    font-size: .4rem;
+    line-height: .56rem;
+    text-align: left;
+}
+.read-details .read-details-time {
+    font-size: .28rem;
+    color: #B2B2B2;
+    text-align: left;
+}
+.read-details .read-details-content {
+    padding: .64rem 0;
+    text-align: left;
+}
