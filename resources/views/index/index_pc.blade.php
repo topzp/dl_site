@@ -18,7 +18,7 @@
       </div>
       <div class="product-item">
         <div class="product-img">
-          <img src="./images/1.jpg" class="advantages-img minipic" data-rjs="2" alt="内容付费平台,内容分销">
+          <img src="./images/1.jpg" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
         </div>
         <div class="product-info">
           <div class="info-item">
@@ -37,7 +37,7 @@
             <h3 class="subtitle">关联公众号</h3>
             <p class="desc">双管齐下，让用户多一种体验，多一种渠道</p>
           </div>
-          <a href="http://mini.hich-tech.com" class="MediumBtnType1 link-register mb20" target="_blank">开始制作</a>
+          <a href="/" class="MediumBtnType1 link-register mb20" target="_blank">了解详情</a>
         </div>
       </div>
     </div>
@@ -47,7 +47,7 @@
       </div>
       <div class="product-item">
         <div class="product-img">
-          <img src="./images/internet.png" class="advantages-img internetpic" data-rjs="2" alt="内容付费平台,内容分销">
+          <img src="./images/internet.png" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
         </div>
         <div class="product-info">
           <div class="info-item">
@@ -66,7 +66,7 @@
             <h3 class="subtitle">丰富的配套服务</h3>
             <p class="desc">为商家提供地图标注，图文设计等一站式服务</p>
           </div>
-          <a href="/pages/website" class="MediumBtnType1 link-register mb20" target="_blank">了解详情</a>
+          <a href="/website" class="MediumBtnType1 link-register mb20" target="_blank">了解详情</a>
         </div>
       </div>
     </div>
@@ -76,7 +76,7 @@
       </div>
       <div class="product-item">
         <div class="product-img">
-          <img src="/images/customize.png" class="advantages-img cuspic" data-rjs="2" alt="内容付费平台,内容分销">
+          <img src="/images/customize.png" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
         </div>
         <div class="product-info">
           <div class="info-item">
@@ -95,7 +95,7 @@
             <h3 class="subtitle">安全运行</h3>
             <p class="desc">独立服务器，专业人士全程护航</p>
           </div>
-          <a href="/pages/customize" class="MediumBtnType1 link-register mb20" target="_blank">沟通需求</a>
+          <a href="/customize" class="MediumBtnType1 link-register mb20" target="_blank">沟通需求</a>
 
         </div>
       </div>
@@ -318,7 +318,7 @@
 </div>
 <div class="free">
     <div class="EC2 T2">
-      骇驰科技，助力每一个努力的身影！
+      达乐科技，助力每一个努力的身影！
     </div>
     <div class="btn-group">
         <a target="_blank" class="BigBtnType1" data-toggle="modal" data-target="#myModal">联系我们</a>

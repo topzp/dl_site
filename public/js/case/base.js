@@ -73,24 +73,20 @@ PageBase.prototype = {
       case "/":
         e = "#navRoot";
         break;
-      case "/pages/aboutUs/":
+      case "/aboutUs":
         e = "#us";
         break;
-      case "/pages/customize/":
+      case "/customize":
         e = "#customize";
         break;
-      case "/pages/onLine/":
-      case "/pages/weChat/":
-      case "/pages/website/":
+      case "/weChat":
+      case "/website":
         e = "#marketing";
         break;
-      case "/pages/hotNews/news1/":
-      case "/pages/hotNews/news2/":
-      case "/pages/hotNews/news3/":
-      case "/pages/hotNews/news4/":
+      case "/news":
         e = "#us";
         break;
-      case "/clientCases":
+      case "/cases":
         e = "#clientCases";
         break;
       default:

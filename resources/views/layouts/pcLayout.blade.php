@@ -16,7 +16,7 @@
 <body>
     <div id="nav" class="nav whiteNav">
         <div class="nav-content">
-            {{-- <a href="/" class="nav-logo_wrap"></a> --}}
+            <a href="/" class="nav-logo_wrap"></a>
             <div class="nav-func">
             <a id="navRoot" href="/" class="nav-func_item">首页</a>
             <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">微商城解决方案</a>
@@ -26,11 +26,10 @@
                 <div class="more-list">
                 <a href="/website" class="more-item">网站建设</a>
                 <a href="/weChat" class="more-item">微信公众号运营</a>
-                <a href="/onLine" class="more-item">线上营销推广</a>
                 <a class="more-item">其他服务</a>
                 </div>
             </div>
-            <a id="navRoot" href="/cases?categoryId=0" class="nav-func_item">案例</a>
+            <a id="clientCases" href="/cases?categoryId=0" class="nav-func_item">案例</a>
             <a id="customize" href="/customize" class="nav-func_item" data-count="pc-顶部导航_首页">定制开发</a>
             <!-- <a id="navRoot" href="/" class="nav-func_item" data-count="pc-顶部导航_首页">案例</a> -->
             <div id="us" class=" nav-func_item nav-more">
@@ -38,14 +37,14 @@
                 <i class="arrow-down iconfont iconicon_nav_downArrow"></i>
                 <div class="more-list">
                 <a href="/aboutUs" class="more-item">公司简介</a>
-                <a href="/pages/hotNews/news1" class="more-item">热点资讯</a>
+                <a href="/news?id=1" class="more-item">热点资讯</a>
                 </div>
             </div>
             </div>
             <div class="phone">
             {{-- <a href="http://mini.hich-tech.com" target="_blank" class="login-btn SmallBtnType22">登录/注册</a> --}}
             <img src="/images/phone.svg" class="phone-icon">
-            <span>400-891-6658</span>
+            <span>0511-85967767</span>
             </div>
         </div>
     </div>
@@ -57,10 +56,10 @@
         <div class="footer">
         <div class="footer-content">
             <div class="foot">
-            <h2 class="tel">400-891-6658</h2>
+            <h2 class="tel">0511-85967767</h2>
             <p class="time">周一至周日 9:00-21:30</p>
             <div class="logo-footer">
-                <img src="/images/logo7.png" alt="">
+                <img src="/images/footer_logo.png" alt="">
             </div>
             </div>
 
@@ -91,8 +90,8 @@
             <dl>
             <dt>公司地址</dt>
             <dd>
-                <p class="footer-href">江苏省昆山市前进东路888号宏基财富</p>
-                <p class="footer-href">广场4栋12单元4层</p>
+                <p class="footer-href">江苏省镇江市京口区中山东路88号</p>
+                <p class="footer-href">金汇大厦12层</p>
             </dd>
             </dl>
             <dl class="media-report">
@@ -113,7 +112,7 @@
         </div>
         <div class="bottom">
             <div class="copyright">
-            <p class="copyright-info">Copyright © 2019 江苏骇驰智能科技有限公司 All Rights Reserved. </p>
+            <p class="copyright-info">Copyright © 2017 镇江达乐网络科技有限公司 All Rights Reserved. </p>
             </div>
         </div>
         </div>
