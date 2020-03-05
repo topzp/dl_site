@@ -80,7 +80,7 @@ li, ul {
 }
 
 .whiteNav .nav-func_item:hover .arrow-down:before, .whiteNav .nav-item_select {
-    color: #F7513F;
+    color: #ffc70a;
 }
 
 .nav .nav-item_select {
@@ -99,11 +99,11 @@ li, ul {
 .whiteNav .nav-func_item:hover {
     -webkit-transition: all .3s;
     transition: all .3s;
-    color: #F7513F;
+    color: #ffc70a;
 }
 
 .whiteNav .nav-item_select:before {
-    background: #F7513F;
+    background: #ffc70a;
 }
 .nav .nav-item_select:before {
     position: absolute;
@@ -118,7 +118,7 @@ li, ul {
 
 .nav .nav-item_select:after {
     position: absolute;
-    background: #F7513F;
+    background: #ffc70a;
     -webkit-transform: scaleX(0);
     transform: scaleX(0);
     -webkit-transform-origin: center;
@@ -155,7 +155,7 @@ li, ul {
 .swiper-banner1 {
     min-width: 1200px;
     position: relative;
-    background-color: #F7513F;
+    background-color: #ffc70a;
     height: 2000px;
 }
 
@@ -218,8 +218,9 @@ li, ul {
     height: 56px;
     line-height: 56px;
     border-radius: 28px;
-    background: #F7513F;
-    color: #fff;
+    background: #ffc70a;
+    color: #333;
+    font-weight: 600;
     font-size: 16px;
     text-align: center;
     -webkit-user-select: none;
@@ -247,7 +248,6 @@ li, ul {
 .product-content .product-items {
     padding-top: 80px;
     padding-bottom: 30px;
-    height: 660px;
 }
 
 .product-content .product-items .title {
@@ -291,10 +291,10 @@ li, ul {
     padding: 0 44px;
     height: 44px;
     line-height: 44px;
-    background: #F7513F;
+    background: #ffc70a;
 }
 .MediumBtnType1, .SmallBtnType1 {
-    color: #fff;
+    color: #333;
     font-size: 14px;
     text-align: center;
     -webkit-user-select: none;
@@ -307,19 +307,11 @@ li, ul {
     border-radius: 22px;
 }
 
-.minipic {
-  width: 520px;
-  margin-left: 50px;
-}
-.internetpic {
-  width: 720px;
-}
-.icpic {
-  width: 400px;
-  margin-left: 50px;
-}
+/* .minipic {
+  height: 460px;
+} */
 .cuspic {
-  width: 680px;
+    margin-left: -20px;
 }
 
 .product-content .product-items:nth-child(even) {
@@ -359,8 +351,9 @@ li, ul {
 }
 .data-content {
     height: 650px;
-    background: #F7513F;
-    background-size: 100%;
+    background: #ffc70a;
+    background: url('/images/bg-23.jpg');
+    background-size: cover;
     text-align: center;
     margin: 0;
     overflow: hidden;
@@ -493,8 +486,7 @@ li, ul {
     width: 100%;
     min-width: 1200px;
     height: 400px;
-    /* background-image: url(http://wechatapppro-1252524126.file.myqcloud.com/appsrzJaqCA8676/image/cmVzb3VyY2UtY291cnNlQXJ0aWNsZS02MTkwMDU1Mw.png); */
-    background-color: #F4F8FF;
+    background-image: url(/images/subscribe.png);
     background-position: center;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -734,7 +726,7 @@ li, ul {
     margin-bottom: 26px;
 }
 .more-item:hover, .List a:hover {
-  color: #F7513F;
+  color: #ffc70a;
 }
 .xe-banner3 a:hover, .free a:hover {
     color: #fff;

@@ -8,6 +8,7 @@
   <link rel="shortcut icon" href="/images/logoicon.png" type="image/x-icon">
   <link href="https://cdn.bootcss.com/twitter-bootstrap/3.4.0/css/bootstrap.min.css" rel="stylesheet">
   <link type=text/css rel="stylesheet" href="/css/base/font.css">
+  <link type=text/css rel="stylesheet" href="/css/base/animate.css">
   <link type=text/css rel="stylesheet" href="/css/base/base.css">
   <link type=text/css rel="stylesheet" href="/css/base/case.css">
   @yield('css-insert')
@@ -15,7 +16,7 @@
 <body>
     <div id="nav" class="nav whiteNav">
         <div class="nav-content">
-            <a href="/" class="nav-logo_wrap"></a>
+            {{-- <a href="/" class="nav-logo_wrap"></a> --}}
             <div class="nav-func">
             <a id="navRoot" href="/" class="nav-func_item">首页</a>
             <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">微商城解决方案</a>
@@ -42,7 +43,7 @@
             </div>
             </div>
             <div class="phone">
-            <a href="http://mini.hich-tech.com" target="_blank" class="login-btn SmallBtnType22">登录/注册</a>
+            {{-- <a href="http://mini.hich-tech.com" target="_blank" class="login-btn SmallBtnType22">登录/注册</a> --}}
             <img src="/images/phone.svg" class="phone-icon">
             <span>400-891-6658</span>
             </div>

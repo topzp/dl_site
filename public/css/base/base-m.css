@@ -46,7 +46,7 @@ body {
 }
 a {
     text-decoration: none;
-    color: #F7513F;
+    color: #ffc70a;
 }
 .mLogo img {
     display: block;
@@ -142,7 +142,7 @@ li, ul {
 }
 a {
     text-decoration: none;
-    color: #F7513F;
+    color: #ffc70a;
 }
 .sideSecondTitle {
     position: relative;
@@ -239,8 +239,8 @@ a {
 
 .btn_bbw {
     border-radius: .44rem;
-    border: .02rem solid #F7513F;
-    background: #F7513F;
+    border: .02rem solid #ffc70a;
+    background: #ffc70a;
 }
 .btn_bbw, .color_f {
     color: #fff;
@@ -296,19 +296,19 @@ img {
 }
 .product-items .product-item .product-info .link-detail {
     background: #fff;
-    color: #F7513F;
+    color: #ffc70a;
 }
 .product-items .product-item .product-info .link-detail, .product-items .product-item .product-info .link-register {
     display: inline-block;
     width: 2.88rem;
     height: .88rem;
     line-height: .84rem;
-    background: #F7513F;
+    background: #ffc70a;
     border-radius: .44rem;
     font-size: .28rem;
     color: #fff;
     text-align: center;
-    border: 1px solid #F7513F;
+    border: 1px solid #ffc70a;
 }
 .four-advantages {
     padding: 1rem .5rem;
@@ -346,8 +346,8 @@ img {
 .data-content {
     height: 8rem;
     padding-top: .6rem;
-    background: -webkit-gradient(linear,left bottom, left top,color-stop(0, #4a8ee8),to(#F7513F));
-    background: linear-gradient(0deg,#4a8ee8 0,#F7513F 100%);
+    background: -webkit-gradient(linear,left bottom, left top,color-stop(0, #4a8ee8),to(#ffc70a));
+    background: linear-gradient(0deg,#4a8ee8 0,#ffc70a 100%);
     color: #fff;
 }
 .data-content .data-title {
@@ -498,7 +498,7 @@ img {
     width: 3.36rem;
     height: .88rem;
     line-height: .68rem;
-    background: #F7513F;
+    background: #ffc70a;
     border-radius: .44rem;
     color: #fff;
 }

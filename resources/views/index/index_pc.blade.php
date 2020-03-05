@@ -18,7 +18,7 @@
       </div>
       <div class="product-item">
         <div class="product-img">
-          <img src="./images/mini.png" class="advantages-img minipic" data-rjs="2" alt="内容付费平台,内容分销">
+          <img src="./images/1.jpg" class="advantages-img minipic" data-rjs="2" alt="内容付费平台,内容分销">
         </div>
         <div class="product-info">
           <div class="info-item">

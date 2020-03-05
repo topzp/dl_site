@@ -179,13 +179,13 @@ img {
     height: 36px;
     line-height: 36px;
     border-radius: 22px;
-    border: 1px solid #F7513F;
+    border: 1px solid #ffc70a;
     display: inline-block;
-    color: #F7513F;
+    color: #ffc70a;
     margin-right: 20px;
 }
 .SmallBtnType2:hover {
-    background: #F7513F;
+    background: #ffc70a;
     color: #fff;
 }
 
