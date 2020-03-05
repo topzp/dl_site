@@ -282,7 +282,7 @@
 <div class="extend-read">
     <div class="read-title">热点资讯</div>
     <div class="read-list">
-      <a class="read-item" href="/pages/hotNews/news1">
+      <a class="read-item" href="/news?id=1">
         <div class="read-item-box">
           <div class="read-item-title">企业网站容易忽视的重点</div>
           <div class="read-item-des">当你看到这篇文章的时候，说明你已经有企业站了，或是正在运营者企业站。企业站的推广和运营是网站的价值所在，也是企业网络营销的根本。既然做了企业站，那也肯定做了SEO，但要运营好一个网站，单单靠SEO是远远不足的。不管是用什么方法，我们的最终目的都是成交，只要能成交，不管你用什么方法宣传运营，都是可以的
@@ -290,7 +290,7 @@
         </div>
         <div class="read-create-time">2019-06-13 18:35</div>
       </a>
-      <a class="read-item" href="/pages/hotNews/news2">
+      <a class="read-item" href="/news?id=2">
         <div class="read-item-box">
           <div class="read-item-title">网站建设网页设计如何选择靠谱的网络公司？</div>
           <div class="read-item-des">
@@ -298,7 +298,7 @@
         </div>
         <div class="read-create-time">2019-06-26 13:40:57</div>
       </a>
-      <a class="read-item" href="/pages/hotNews/news3">
+      <a class="read-item" href="/news?id=7">
         <div class="read-item-box">
           <div class="read-item-title">如何提高你的网站收录量?</div>
           <div class="read-item-des">
@@ -306,7 +306,7 @@
         </div>
         <div class="read-create-time">2020-01-02 10:47:55</div>
       </a>
-      <a class="read-item" href="/pages/hotNews/news4">
+      <a class="read-item" href="/news?id=8">
         <div class="read-item-box">
           <div class="read-item-title">响应式网站有哪些特点</div>
           <div class="read-item-des">

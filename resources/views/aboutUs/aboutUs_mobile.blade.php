@@ -5,7 +5,7 @@
     <div class="swiper-slide header EC5 swiper-slide-duplicate swiper-slide-active test">
         <div class="xe-banner3 w1200">
             <div class="bigTitle T1 mb8">关于我们</div>
-            <p class="T5 mb64">FOR THE MAN IN CHARGE OF CHANGE</p>
+            <p class="T5 mb64">赋能新时代营销模式，助力企业数字化转型</p>
             <!-- <a target="_blank" class="BigBtnType1" data-toggle="modal" data-target="#myModal">联系我们</a> -->
             <div class="btn-group">
                 <a target="_blank" href="tel://4008916658" class="btn_bbw">联系我们</a>
@@ -20,8 +20,8 @@
         </div>
         <div class="product-item">
             <div class="product-info">
-                <p>骇驰科技专注企业数字化转型，高效落地企业软硬件服务方案，也是专业的融合门户服务解决方案提供商。提供融合服务平台架构、云服务方式的服务资源聚合，网站、微信小程序开发、移动门户、微信门户、政府一站式办事大厅、APP定制开发、企业营销软件、集成电路设计等服务渠道的建设与运营支撑服务。</p>
-                <p>骇驰科技从顶层咨询规划，到基础的IT设施建设，到融合服务体系建设与运营服务，具备全面的服务能力和业务覆盖。近年来，骇驰科技小程序平台建设、移动开放平台建设、融合门户服务建设与运营、集成电路设计，企业服务等业务覆盖全国近千家用户，形成了强大的能力优势，包括业务专家团队、研发团队、设计团队、本地化运维服务团队。</p>
+                <p>达乐科技专注企业数字化转型，高效落地企业软硬件服务方案，也是专业的融合门户服务解决方案提供商。提供融合服务平台架构、云服务方式的服务资源聚合，网站、微信小程序开发、移动门户、微信门户、政府一站式办事大厅、APP定制开发、企业营销软件、集成电路设计等服务渠道的建设与运营支撑服务。</p>
+                <p>达乐科技从顶层咨询规划，到基础的IT设施建设，到融合服务体系建设与运营服务，具备全面的服务能力和业务覆盖。近年来，达乐科技小程序平台建设、移动开放平台建设、融合门户服务建设与运营、集成电路设计，企业服务等业务覆盖全国近千家用户，形成了强大的能力优势，包括业务专家团队、研发团队、设计团队、本地化运维服务团队。</p>
             </div>
         </div>
     </div>
@@ -133,7 +133,7 @@
 </div>
 <div class="foot_free">
     <div class="title EC2 T2">
-        骇驰科技<br>
+        达乐科技<br>
         助力每一个努力的身影!
     </div>
     <div class="btn-group">

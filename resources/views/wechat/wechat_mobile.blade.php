@@ -5,7 +5,7 @@
     <div class="swiper-slide header EC5 swiper-slide-duplicate swiper-slide-active test">
         <div class="xe-banner3 w1200">
             <div class="bigTitle T1 mb8">微信公众号运营</div>
-            <p class="T5 mb64">FOR THE MAN IN CHARGE OF CHANGE</p>
+            <p class="T5 mb64">赋能新时代营销模式，助力企业数字化转型</p>
             <!-- <a target="_blank" class="BigBtnType1" data-toggle="modal" data-target="#myModal">联系我们</a> -->
             <div class="btn-group">
                 <a target="_blank" href="tel://4008916658" class="btn_bbw">联系我们</a>
@@ -137,7 +137,7 @@
 </div>
 <div class="foot_free">
     <div class="title EC2 T2">
-        骇驰科技<br>
+        达乐科技<br>
         助力每一个努力的身影!
     </div>
     <div class="btn-group">

@@ -6,7 +6,7 @@
     <div class="swiper-slide header EC5 swiper-slide-duplicate swiper-slide-active test">
         <div class="xe-banner3 w1200">
             <div class="bigTitle T1 mb8">营销网站建设</div>
-            <p class="T5 mb64">FOR THE MAN IN CHARGE OF CHANGE</p>
+            <p class="T5 mb64">赋能新时代营销模式，助力企业数字化转型</p>
             <!-- <a target="_blank" class="BigBtnType1" data-toggle="modal" data-target="#myModal">联系我们</a> -->
             <div class="btn-group">
                 <a target="_blank" href="tel://4008916658" class="btn_bbw">联系我们</a>
@@ -19,7 +19,7 @@
         <div class="row wow fadeInUp animated" data-wow-duration="0.7s" data-wow-delay="1.0s"
              style="visibility: visible; animation-duration: 0.7s; animation-delay: 1s; animation-name: fadeInUp;">
             <div class="col-xs-12 work_title">
-                网站在当前的形势下即是一个公司及品牌的传播工具，又是一门视觉艺术，骇驰科技在这一领域积累超过10年的工作经验，我们重视网站本身的内容和框架规划，来达到用户阅读的易懂性和易用性，同时在设计创意开发和用户体验上达到用户阅读的趣味性，从而使用户留下来并深度阅读，最终产生订单及回馈。
+                网站在当前的形势下即是一个公司及品牌的传播工具，又是一门视觉艺术，达乐科技在这一领域积累超过10年的工作经验，我们重视网站本身的内容和框架规划，来达到用户阅读的易懂性和易用性，同时在设计创意开发和用户体验上达到用户阅读的趣味性，从而使用户留下来并深度阅读，最终产生订单及回馈。
             </div>
         </div>
         <div class="row">
@@ -138,7 +138,7 @@
 </div>
 <div class="foot_free">
     <div class="title EC2 T2">
-        骇驰科技<br>
+        达乐科技<br>
         助力每一个努力的身影!
     </div>
     <div class="btn-group">

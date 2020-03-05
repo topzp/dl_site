@@ -19,7 +19,7 @@
             <a href="/" class="nav-logo_wrap"></a>
             <div class="nav-func">
             <a id="navRoot" href="/" class="nav-func_item">首页</a>
-            <a id="navRoot" href="http://cases.hich-tech.com/case_page?categoryId=0" class="nav-func_item">微商城解决方案</a>
+            <a id="navRoot" href="/" class="nav-func_item">微商城解决方案</a>
             <div id="marketing" class="nav-func_item nav-more">
                 互联网营销
                 <i class="arrow-down iconfont iconicon_nav_downArrow"></i>
@@ -66,25 +66,22 @@
             <dl>
             <dt>产品与服务</dt>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com" target="_blank">小程序行业解决方案</a>
+                <a class="footer-href" href="/" target="_blank">微商城解决方案</a>
             </dd>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com/pages/website" target="_blank">互联网营销</a>
+                <a class="footer-href" href="/website" target="_blank">互联网营销</a>
             </dd>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com" target="_blank">集成平台方案</a>
-            </dd>
-            <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com/pages/customize" target="_blank">软件定制开发</a>
+                <a class="footer-href" href="/website" target="_blank">软件定制开发</a>
             </dd>
             </dl>
             <dl>
             <dt>关于我们</dt>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com/pages/aboutUs" data-count="pc-底部导航_公司相关_关于我们">公司简介</a>
+                <a class="footer-href" href="/aboutUs" data-count="pc-底部导航_公司相关_关于我们">公司简介</a>
             </dd>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com" data-count="pc-底部导航_公司相关_加入我们">加入我们</a>
+                <a class="footer-href" href="#" data-count="pc-底部导航_公司相关_加入我们">加入我们</a>
             </dd>
             </dl>
             <dl>
@@ -97,16 +94,13 @@
             <dl class="media-report">
             <dt>热点资讯</dt>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com/pages/hotNews/news1">企业网站容易忽视的重点</a>
+                <a class="footer-href" href="/news?id=1">企业网站容易忽视的重点</a>
             </dd>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com/pages/hotNews/news2">网站建设网页设计如何选择靠谱的网络公司</a>
+                <a class="footer-href" href="/news?id=2">网站建设网页设计如何选择靠谱的网络公司</a>
             </dd>
             <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com/pages/hotNews/news3">如何提高你的网站收录量</a>
-            </dd>
-            <dd>
-                <a class="footer-href" href="http://customer.hich-tech.com/pages/hotNews/news4">响应式网站有哪些特点</a>
+                <a class="footer-href" href="/news?id=3">知识店铺平台一般可以实现怎样的功能？</a>
             </dd>
             </dl>
         </div>
@@ -117,9 +111,18 @@
         </div>
         </div>
     </div>
-
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div>
+            <img src="/images/con.jpg" class="contact-modal"  >
+            </div>
+        </div>
+        </div>
+    </div>
 
     <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
     <script src="/js/case/base.js"></script>
     @yield('js-insert')
 

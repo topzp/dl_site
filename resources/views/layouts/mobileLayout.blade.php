@@ -186,7 +186,7 @@
             </div>
         </div>
         <div class="copyright">
-            <p class="copyright-info">Copyright ©2019 江苏骇驰智能科技有限公司</p>
+            <p class="copyright-info">Copyright ©2019 江苏达乐智能科技有限公司</p>
             <p class="copyright-info">All Rights Reserved. </p>
         </div>
     </div>
