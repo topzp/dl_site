@@ -4,7 +4,7 @@
 <div class="swiper-banner swiper-container swiper-container-horizontal">
     <div class="swiper-slide header EC5 swiper-slide-duplicate swiper-slide-active test">
         <div class="xe-banner3 w1200">
-            <div class="bigTitle T1 mb8">微信公众号运营</div>
+            <div class="bigTitle T1 mb8">微商城解决方案</div>
             <p class="T5 mb64">赋能新时代营销模式，助力企业数字化转型</p>
             <!-- <a target="_blank" class="BigBtnType1" data-toggle="modal" data-target="#myModal">联系我们</a> -->
             <div class="btn-group">
@@ -16,27 +16,27 @@
 <div class="product-content w1200">
     <div class="product-items product-items01">
         <div class="title">
-            传统企业营销各种难点
+        微商城多重亮点
         </div>
         <div class="product-item">
             <div class="product-img">
-                <img src="./images/webChat01.png" class="advantages-img minipic" data-rjs="2" alt="深度化公众号运营解决方案">
+                <img src="./images/wechatMall01.png" class="advantages-img minipic" data-rjs="2" alt="深度化公众号运营解决方案">
             </div>
             <div class="product-info">
-                <div class="info-item">
-                    <h3 class="subtitle">运营</h3>
-                    <p class="desc">单一的发布企业、产品信息，操作简单却无用</p>
+            <div class="info-item">
+                    <h3 class="subtitle">完善的功能系统</h3>
+                    <p class="desc">完善的商城系统，上架商品，订单追踪，线上支付，活动推广</p>
                 </div>
                 <div class="info-item">
-                    <h3 class="subtitle">定位</h3>
-                    <p class="desc">引导关注用户的方向和方式不够专业</p>
+                    <h3 class="subtitle">安全的数据保护</h3>
+                    <p class="desc">私有独立部署，企业数据完全自有，无丢失和被盗用的可能</p>
                 </div>
                 <div class="info-item">
-                    <h3 class="subtitle">粉丝</h3>
-                    <p class="desc">增长速率迟缓，活跃度互动性不高</p>
+                    <h3 class="subtitle">丰富的营销推广功能</h3>
+                    <p class="desc">包含分销系统，秒杀系统以及拼团抢购等共功能</p>
                 </div>
                 <div class="info-item">
-                    <h3 class="subtitle">内容</h3>
+                    <h3 class="subtitle">后台系统数据分析</h3>
                     <p class="desc">软文冗长，无法直击客户痛点，毫无代入感</p>
                 </div>
                 <!--<a href="https://admin.xiaoe-tech.com/login_page?reg_source=0109#/register" data-sensors="首页_首页_新教育_免费试用7天"-->
@@ -45,29 +45,25 @@
         </div>
     </div>
     <div class="product-items product-items02">
-        <div class="title">
-            深度化公众号运营解决方案
+    <div class="title">
+            微商城各类模块
         </div>
         <div class="product-item">
             <div class="product-img">
-                <img src="./images/webChat02.png" class="advantages-img internetpic" data-rjs="2" alt="内容付费平台,内容分销">
+                <img src="./images/wechatMall02.png" class="advantages-img minipic" data-rjs="2" alt="内容付费平台,内容分销">
             </div>
             <div class="product-info">
                 <div class="info-item">
-                    <h3 class="subtitle">品牌定位分析</h3>
-                    <p class="desc">基于评估及行业实操经验，针对需求整合可行性的诊断结果与优化建议</p>
+                    <h3 class="subtitle">商城系统</h3>
+                    <p class="desc">精致美观的商城设计风格，提供功能，舒心的购物体验</p>
                 </div>
                 <div class="info-item">
-                    <h3 class="subtitle">平台系统构建</h3>
-                    <p class="desc">通过规划公众号菜单、展示品牌页面、配置平台交互，打造企业专属的公众号版图</p>
+                    <h3 class="subtitle">客服系统</h3>
+                    <p class="desc">用户与客户对话聊天，不用添加用户微信，让沟通更高效</p>
                 </div>
                 <div class="info-item">
-                    <h3 class="subtitle">内容策划运营</h3>
-                    <p class="desc">资深文案结合企业需求，提供内容策划、内容创意、内容优化、内容营销等服务，给予公众号全方位的内容输出</p>
-                </div>
-                <div class="info-item">
-                    <h3 class="subtitle">微信推广渠道</h3>
-                    <p class="desc">整合微信生态内的传播渠道，配合运营活动节点，多渠道投放</p>
+                    <h3 class="subtitle">分销拓客</h3>
+                    <p class="desc">通过微信社交好友分销推广发展商城忠实粉丝</p>
                 </div>
                 <!--<a href="https://admin.xiaoe-tech.com/login_page?reg_source=0110#/register" data-sensors="首页_首页_知识付费_免费试用7天"-->
                 <!--class="MediumBtnType1 link-register" target="_blank">了解详情</a>-->
@@ -76,29 +72,25 @@
         </div>
     </div>
     <div class="product-items product-items03">
-        <div class="title">
-            人性化微信公众号服务范围
+    <div class="title">
+            微商城推广板块
         </div>
         <div class="product-item">
             <div class="product-img">
-                <img src="./images/webChat03.png" class="advantages-img icpic" data-rjs="2" alt="内容付费平台,内容分销">
+                <img src="./images/wechatMall03.png" class="advantages-img icpic" data-rjs="2" alt="内容付费平台,内容分销">
             </div>
             <div class="product-info">
                 <div class="info-item">
-                    <h3 class="subtitle">微信菜单搭建</h3>
-                    <p class="desc">自定义菜单装修，自动回复设置，形象二维码美化 </p>
+                    <h3 class="subtitle">秒杀活动</h3>
+                    <p class="desc">退出爆款产品，吸引用户下单，获取种子用户</p>
                 </div>
                 <div class="info-item">
-                    <h3 class="subtitle">微信文案策划</h3>
-                    <p class="desc">体现行业特点，结合最新热点，吸引用户阅读，引发转发分享</p>
+                    <h3 class="subtitle">砍价模块</h3>
+                    <p class="desc">邀请好友砍价购买商品，增加商城曝光度，获取意向客户</p>
                 </div>
                 <div class="info-item">
-                    <h3 class="subtitle">微信代运营</h3>
-                    <p class="desc">专业运营策划，优化排版设置，撰写优质内容，定期推送信息</p>
-                </div>
-                <div class="info-item">
-                    <h3 class="subtitle">推文设计</h3>
-                    <p class="desc">推文美化设计，微信活动策划，提高品牌价值</p>
+                    <h3 class="subtitle">拼团功能</h3>
+                    <p class="desc">邀请好友一起拼团，商城订单成倍提升，增加收益</p>
                 </div>
                 <!--<a href="https://admin.xiaoe-tech.com/login_page?reg_source=0109#/register" data-sensors="首页_首页_新教育_免费试用7天"-->
                 <!--class="MediumBtnType1 link-register" target="_blank">了解详情</a>-->

@@ -1,13 +1,13 @@
 @extends('layouts.pcLayout')
 
 @section('content')
-<div class="case_container" style="background-color: #f5f5f5;">
+<div class="case_container" style="background-color: #f5f5f5;">s
     <div class="wrap">
       <div class="tabs clearfix">
         <span class="fl">分类：</span>
-        <a href="/case_page?categoryId=0" id="category_0">全部</a>
+        <a href="/cases?categoryId=0" id="category_0">全部</a>
         @foreach ($categories as $category )
-        <a href="/case_page?categoryId={{$category->id}}" id="category_{{$category->id}}">{{$category->name}}</a>
+        <a href="/cases?categoryId={{$category->id}}" id="category_{{$category->id}}">{{$category->name}}</a>
         @endforeach
       </div>
       <div class="moran-al">

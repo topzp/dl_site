@@ -88,11 +88,10 @@
     transition: 0.8s;
 }
 .data-content {
-    background: #446ACC;
-    background-size: 100%;
-    text-align: center;
-    margin: 0;
-    overflow: hidden;
+    height: 8rem;
+    padding-top: .6rem;
+    background: -webkit-gradient(linear,left bottom, left top,color-stop(0, #4a8ee8),to(#ffc70a));
+    background: linear-gradient(0deg,#4a8ee8 0,#ffc70a 100%);
     color: #fff;
 }
 .service-client {

@@ -8,7 +8,7 @@
             <p class="T5 mb64">赋能新时代营销模式，助力企业数字化转型</p>
             <!-- <a target="_blank" class="BigBtnType1" data-toggle="modal" data-target="#myModal">联系我们</a> -->
             <div class="btn-group">
-                <a target="_blank" href="tel://4008916658" class="btn_bbw">联系我们</a>
+                <a target="_blank" href="tel://051185967767" class="btn_bbw">联系我们</a>
             </div>
         </div>
     </div>
@@ -137,7 +137,7 @@
         助力每一个努力的身影!
     </div>
     <div class="btn-group">
-        <a target="_blank" href="tel://4008916658" class="BigBtnType1 btn">联系我们</a>
+        <a target="_blank" href="tel://051185967767" class="BigBtnType1 btn">联系我们</a>
     </div>
 </div>
 @endsection

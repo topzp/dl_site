@@ -19,7 +19,7 @@
             <a href="/" class="nav-logo_wrap"></a>
             <div class="nav-func">
             <a id="navRoot" href="/" class="nav-func_item">首页</a>
-            <a id="navRoot" href="/" class="nav-func_item">微商城解决方案</a>
+            <a id="navRoot" href="/weChatMall" class="nav-func_item">微商城解决方案</a>
             <div id="marketing" class="nav-func_item nav-more">
                 互联网营销
                 <i class="arrow-down iconfont iconicon_nav_downArrow"></i>
@@ -66,13 +66,13 @@
             <dl>
             <dt>产品与服务</dt>
             <dd>
-                <a class="footer-href" href="/" target="_blank">微商城解决方案</a>
+                <a class="footer-href" href="/weChatMall">微商城解决方案</a>
             </dd>
             <dd>
-                <a class="footer-href" href="/website" target="_blank">互联网营销</a>
+                <a class="footer-href" href="/website">互联网营销</a>
             </dd>
             <dd>
-                <a class="footer-href" href="/website" target="_blank">软件定制开发</a>
+                <a class="footer-href" href="/customize">软件定制开发</a>
             </dd>
             </dl>
             <dl>
@@ -81,7 +81,7 @@
                 <a class="footer-href" href="/aboutUs" data-count="pc-底部导航_公司相关_关于我们">公司简介</a>
             </dd>
             <dd>
-                <a class="footer-href" href="#" data-count="pc-底部导航_公司相关_加入我们">加入我们</a>
+                <a class="footer-href" href="/news?id=1" data-count="pc-底部导航_公司相关_热点资讯">热点资讯</a>
             </dd>
             </dl>
             <dl>
@@ -115,7 +115,7 @@
         <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div>
-            <img src="/images/con.jpg" class="contact-modal"  >
+            <img src="/images/contact.png" class="contact-modal"  >
             </div>
         </div>
         </div>

@@ -42,6 +42,16 @@ class PageViewController extends Controller
         return view($returnView);
     }
 
+    public function wechatMall()
+    {
+        if (WebService::isMobile()) {
+            $returnView = "wechatMall.wechatMall_mobile";
+        } else {
+            $returnView = "wechatMall.wechatMall_pc";
+        }
+        return view($returnView);
+    }
+
     public function customize()
     {
         if (WebService::isMobile()) {

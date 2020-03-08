@@ -8,7 +8,7 @@
         <p class="T5 mb64">赋能新时代营销模式，助力企业数字化转型</p>
         <!-- <a target="_blank" class="BigBtnType1" data-toggle="modal" data-target="#myModal">联系我们</a> -->
         <div class="btn-group">
-          <a target="_blank" href="tel://4008916658" class="btn_bbw">联系我们</a>
+          <a target="_blank" href="tel://051185967767" class="btn_bbw">联系我们</a>
         </div>
       </div>
     </div>
@@ -21,7 +21,7 @@
           </div>
           <div class="product-item">
               <div class="product-img">
-                  <img src="/images/mini.png" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
+                  <img src="/images/1-m.jpg" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
               </div>
               <div class="product-info">
                   <div class="info-item">
@@ -65,7 +65,7 @@
           </div>
           <div class="product-item">
               <div class="product-img">
-                  <img src="/images/internet.png" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
+                  <img src="/images/internet-m.png" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
               </div>
               <div class="product-info">
                   <div class="info-item">
@@ -109,7 +109,7 @@
           </div>
           <div class="product-item">
               <div class="product-img">
-                  <img src="/images/customize.png" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
+                  <img src="/images/customize-m.png" class="advantages-img" data-rjs="2" alt="内容付费平台,内容分销">
               </div>
               <div class="product-info">
                   <div class="info-item">
@@ -237,14 +237,14 @@
   <div class="extend-read">
       <div class="extend-read-title">热点资讯</div>
       <div class="extend-read-list">
-          <a class="extend-read-item" href="/mobile/pages/hotNews/news1">
+          <a class="extend-read-item" href="/news?id=1">
               <div class="read-title-sub">
                   <div class="read-item-title">企业网站容易忽视的重点</div>
                   <div class="read-item-sub">当你看到这篇文章的时候，说明你已经有企业站了，或是正在运营者企业站。企业站的推广和运营是网站的价值所在，也是企业网络营销的根本。既然做了企业站，那也肯定做了SEO，但要运营好一个网站，单单靠SEO是远远不足的。不管是用什么方法，我们的最终目的都是成交，只要能成交，不管你用什么方法宣传运营，都是可以的</div>
               </div>
               <div class="read-item-time">2019-06-13 18:35</div>
           </a>
-          <a class="extend-read-item" href="/mobile/pages/hotNews/news2">
+          <a class="extend-read-item" href="/news?id=2">
               <div class="read-title-sub">
                   <div class="read-item-title">网站建设网页设计如何选择靠谱的网络公司</div>
                   <div class="read-item-sub">
@@ -261,7 +261,7 @@
           助力每一个努力的身影!
       </div>
       <div class="btn-group">
-          <a target="_blank" href="tel://4008916658" class="BigBtnType1 btn">联系我们</a>
+          <a target="_blank" href="tel://051185967767" class="BigBtnType1 btn">联系我们</a>
       </div>
   </div>
 @endsection

@@ -341,7 +341,7 @@ img {
     font-size: .24rem;
 }
 .product-items:nth-child(even) {
-    background: #F7FBFF;
+    /* background: #F7FBFF; */
 }
 .data-content {
     height: 8rem;
@@ -580,7 +580,7 @@ img {
     align-items: center;
 }
 .qr-code {
-    width: 200px;
+    /* width: 200px; */
     height: 180px;
     position: absolute;
     top: 0;
